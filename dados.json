@@ -1,0 +1,26 @@
+[
+    {
+       "id": 12,
+       "nome": "Maria",
+       "matricula": 15465,
+       "sexo": "Feminino"
+    },
+    {
+        "id": 25,
+        "nome": "João",
+        "matricula": 17894,
+        "sexo": "Masculino"
+    },
+    {
+        "id": 34,
+        "nome": "Roberta",
+        "matricula": 47987,
+        "sexo": "Feminino"
+    },
+    {
+        "id": 41,
+        "nome": "Bruno",
+        "matricula": 45497,
+        "sexo": "Masculino"
+    }
+]
